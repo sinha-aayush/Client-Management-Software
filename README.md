@@ -1,1 +1,1 @@
-1. Client Management Software I made in 12th class as a final year project using python's tkinter library.
+Projects I made, the first one being my final year project for 12th grade, and many more.
